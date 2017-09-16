@@ -1,0 +1,2912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      </Styles>
+<Worksheet ss:Name="Key Metrics">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="22" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="24" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="25" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="26" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="27" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="28" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="29" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="30" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="31" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="32" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="33" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="34" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Audience Targeting</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Total Reach</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post organic reach</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Paid Reach</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Total Impressions</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Organic Impressions</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Paid Impressions</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Engaged Users</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Consumers</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Consumptions</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Negative feedback</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Negative Feedback from Users</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Impressions by people who have liked your Page</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post reach by people who like your Page</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Post Paid Impressions by people who have liked your Page</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Paid reach of a post by people who like your Page</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime People who have liked your Page and engaged with your post</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Organic views to 95%</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Organic views to 95%</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Paid views to 95%</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Paid views to 95%</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Organic Video Views</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Organic Video Views</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Paid Video Views</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Paid Video Views</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Average time video viewed</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Lifetime Video length</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The total number of people your Page post was served to. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who saw your Page post in news feed or ticker, or on your Page's timeline. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people your advertised Page post was served to. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of impressions of your Page post. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of impressions of your post in News Feed or ticker or on your Page's Timeline. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of impressions of your Page post in an Ad or Sponsored Story. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of unique people who engaged in certain ways with your Page post, for example by commenting on, liking, sharing, or clicking upon particular elements of the post. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who clicked anywhere in your post. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of clicks anywhere in your post. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who have given negative feedback to your post. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of times people have given negative feedback to your post. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of impressions of your Page post to people who have liked your Page. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who saw your Page post because they've liked your Page (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of paid impressions of your Page post to people who have liked your Page. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who like your Page and who saw your Page post in an ad or sponsored story. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who have liked your Page and clicked anywhere in your posts. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed to 95% of its length without any paid promotion. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed to 95% of its length without any paid promotion. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed to 95% of its length after paid promotion. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed to 95% of its length after paid promotion. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed for more than 3 seconds without any paid promotion. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed for more than 3 seconds without any paid promotion. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed more than 3 seconds after paid promotion. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Number of times your video was viewed more than 3 seconds after paid promotion. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Average time video viewed (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: Length of a video post (Total Count)</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">46</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">46</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">46</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">39</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">34</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">43</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">42</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">33</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">57</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">56</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">103</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">102</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">101</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">56</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">41</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">41</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">40</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">59</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">91</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">59</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">116</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">115</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">114</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">58</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">43</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">43</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">42</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">48</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">48</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">43</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">25</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">67</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">67</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">67</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">168</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">168</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">228</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">228</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">104</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">61</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">160</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">147</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">220</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">203</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">96</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">58</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">33</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">35</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Talking About This(...">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">like</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">comment</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of unique people who created a story about your Page post by interacting with it. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Post Stories by act...">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">like</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">comment</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of stories created about your Page post, by action type. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Post Consumers by type">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">link clicks</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">other clicks</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">photo view</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who clicked anywhere in your post, by type. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Post Consumptions b...">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">link clicks</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">other clicks</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">photo view</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of clicks anywhere in your post, by type. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Negative Feedback f...">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of times people have given negative feedback to your post, by type. (Total Count)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+
+<Worksheet ss:Name="Lifetime Negative Feedback">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Description</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post ID</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Permalink</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Post Message</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Countries</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Languages</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Posted</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">Audience Targeting</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lifetime: The number of people who have given negative feedback to your post, by type. (Unique Users)</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841333969373570</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nostrovia Vitalik Buterin, founder of Ethereum!</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T09:08:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841232252717075</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Now this is a Whopper! #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-31T04:30:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/841066592733641</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[GREAT READ] &quot;Once he was convinced of bitcoin's excellence, he started calculating how much the currency could one day be worth.&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-30T17:57:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840573082782992</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Bitcoin is living up to its growing reputation as a disaster hedge...&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T18:12:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840389852801315</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">LTC UPDATE: Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero, and Ripple's XRP in recent days.
+
+CoinMarketCap indicates that Korean exchange Bithumb was responsible for as much as 25 percent of the volume in the last 24 hours, though Chinese exchanges OKCoin and Huobi saw 18 and 15 percent respectively.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T08:49:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/840340716139562</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">New highs! Uncertain economic times / global risk drive value of BTC which has become an alternative reserve currency / risk-off trade</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-29T07:15:38.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/839884089518558</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vigorous trading in South Korea seems to be at least in part responsible for the rise, a trend also seen for bitcoin cash, monero and Ripple's XRP in recent days.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-28T06:33:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838957226277911</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">This is genius! &quot;The company's application calls for appliances ranging from air conditioners, dehumidifiers and TVs to be built with specialized mining chips embedded inside. Once programmed, the products would connect to a cloud-based service and contribute their hashing power in the background.&quot; #BUYBITCOIN</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-26T04:41:57.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838690842971216</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">These 2 charts will show you everything you need to know about crypto right now #BuyBTC #BuyETH #BuyLTC #VITE$</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T14:32:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838522522988048</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;...[I]t’s undeniable that people with ideas that work hard can make things happen in Bitcoin.&quot; #BUYBITCOIN 
+
+http://bit.ly/2vvHzH4</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-25T06:28:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838333256340308</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">FOMO is real! #BUYBITCOIN #CRYPTOLIFE #VITEMONEY</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:43:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838326043007696</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sounds about right? #buybitcoin #buybitcoins</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T18:09:22.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838073706366263</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wow! [B]lockchain is more than a new type of network infrastructure, with immutable ledgers that are almost impossible to hack or fake, plus peer-to-peer channels that let people transact directly without fee-collecting gatekeepers like AirBnB or PayPal.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:34:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/838071956366438</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[E]ight years and almost eight months since Bitcoin’s birth. But what difference will it make?  #buybitcoin</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-24T05:29:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837794419727525</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">If BTC is below $4k Buy, ETH is below $300 buy and LTC under $40 buy.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T16:05:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837697496403884</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money added a button to help you learn more about them.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-23T10:49:39.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837331306440503</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">&quot;Paper money eventually returns to its intrinsic value [of] zero&quot;
+
+— Voltaire</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Status</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:29:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837329073107393</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their info in the about section.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:21:52.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317749775192</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money updated their website address.</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Link</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:05:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837317139775253</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money's cover photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:02:16.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">823697621137205_837316833108617</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">https://www.facebook.com/Vite.money/posts/837316866441947:0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Vite.Money</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Photo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-08-22T13:01:17.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"> </Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
